@@ -1,10 +1,15 @@
 
-# 
+# datasets
 data*
+
+# code that I don't want
+**checking**
 
 # output
 output/drafts/*
 
+# authorization key file 
+*constants*
 
 
 ## other stuff
