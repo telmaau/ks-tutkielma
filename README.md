@@ -11,15 +11,12 @@ The Booksampo user interface can be accessed on [kirjasampo.fi](https://www.kirj
 ````
 project_name/
 ├── README.md              # project overview
-├── documentation/         # project documentation
 ├── code/
 │   ├── preprocess/         # data preprocessing
-│   ├── stats/              # code used in the analyses
-│   ├── misc/               # other code (to be replaced)
+│   ├── stats/              # overall booksampo statistics to present the data
 │   └── analysis/           # analysis
-└── output/
-    ├── figures/            # final visualizations of the data and analysis
-    └── drafts/            # draft versions
+└── output/                 # visualizations of the data and analysis
+
 ````
 
 ## Acknowledgements
