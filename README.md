@@ -2,7 +2,7 @@
 
 *Repository for my master thesis on Booksampo*
 
-The folders in this repository include the code used in my master thesis "name-of-the-thesis". 
+The folders in this repository include the code used in my master thesis *Suomeksi yli rajojen - Kvantitatiivinen tutkimus suomenkielisten romaanien monimuotoisuudesta 1970–2020*. 
 The Booksampo user interface can be accessed on [kirjasampo.fi](https://www.kirjasampo.fi/), but due to copyrights, the dataset is not openly available.
 
 
